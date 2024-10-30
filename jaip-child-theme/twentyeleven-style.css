@@ -1,0 +1,44 @@
+ /*
+
+Theme Name:  twentyeleven jaip-child-theme
+
+Description: ******* Child theme for the twentyeleven theme. *******  No styling in the style.css of the jaip-child-theme is essential for the functioning of the plugin. ******* When deactivating the Jaip Page Style plugin or switching to another theme, the files in this folder will be moved to  a subfolder to the plugins jaip-child-theme folder. Eventually manually save any important changes to another folder before deactivating or switching.
+
+Author: jaip
+
+Template: twentyeleven
+
+*/
+
+@import url("../twentyeleven/style.css");
+
+
+
+
+#header_image {
+
+}
+#site-title {
+
+display:block;
+
+}
+
+#site-description {
+display:block;
+}
+ 
+#searchform {
+
+    background:#F8F8F8;
+    border:1px #acacac solid;
+
+}
+
+
+nav#access {
+	
+margin-top:2px !important;
+
+}
+

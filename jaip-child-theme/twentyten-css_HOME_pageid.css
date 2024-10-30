@@ -1,0 +1,21 @@
+/*Css for the frontpage - a stylesheet created for  actual pagetitle overrides this*/
+
+#site-description {
+
+display:block;
+
+}
+
+#site-title {
+
+display:block ;
+
+}
+
+#header_image {
+max-height:200px;
+height:200px !important;
+margin-bottom:50px !important;
+
+
+}

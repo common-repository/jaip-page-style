@@ -1,0 +1,42 @@
+ /*
+
+Theme Name:  twentyten jaip-child-theme
+
+Description: ******* Child theme for the twentyten theme. *******  When deactivating the Jaip Page Style plugin or switching to another theme, the files in this folder will be moved to  a subfolder to the plugins jaip-child-theme folder. Eventually manually save any important changes to another folder before deactivating or switching
+
+Author: jaip
+
+Template: twentyten
+
+*/
+
+@import url("../twentyten/style.css");
+
+
+#site-description {
+
+display:block;
+
+}
+
+#site-title {
+
+display: block ;
+
+}
+
+#header_image {
+
+margin-bottom:0px !important;;
+
+}
+
+
+
+#access {
+
+
+position:relative !important;
+top:0px !important;
+
+}
